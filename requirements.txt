@@ -1,0 +1,14 @@
+streamlit>=1.36.0
+pandas>=2.2.0
+openpyxl>=3.1.2
+shapely>=2.0.4
+geopy>=2.4.1
+requests>=2.32.0
+plotly>=5.22.0
+folium>=0.17.0
+streamlit-folium>=0.22.0
+pydeck>=0.9.1
+Pillow>=10.4.0
+matplotlib>=3.9.0
+python-dateutil>=2.9.0
+urllib3>=2.2.0
